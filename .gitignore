@@ -1,0 +1,6 @@
+.venv
+__pycache__
+core-data/*
+core-logs/*
+tasks/t2/core-data
+tasks/t2/core-logs
